@@ -1,9 +1,1 @@
-# LibHub
-Collection for library hub
-@LibHub
--Facbook Page 
--Telegram Channel
--Contact
-@Founder
--Facbook
--Telegram
+This app is a collection of libraries for Sketchwar for all Sketchware users.
